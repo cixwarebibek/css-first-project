@@ -1,0 +1,36 @@
+h2{
+    color:blue;
+
+}
+h3{
+    color:blue;
+    background:lightblue;
+}
+.footer{
+    color:gray;
+}
+.image{
+    height:100Px;
+    float:left;
+    width:100px;
+}
+
+body{
+    margin:5px 10px;
+    padding:5px 10px;
+    border:2px solid black;
+}
+
+
+
+.block1{
+    
+}
+
+.block2{
+    background-color: lightgray;
+}
+
+.block3{
+    background-color: lightgray;
+}
